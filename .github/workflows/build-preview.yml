@@ -51,6 +51,7 @@ jobs:
           failOnError: 'true'
           build: |
             echo Deploying to surge.sh
+            
       - name: Get the preview_url
         run: echo "url => ${{ steps.preview_step.outputs.preview_url }}"
      
