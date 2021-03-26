@@ -41,7 +41,7 @@ TrueNAS provides everything necessary for Plugin development but a FreeBSD syste
 
 - An internet connection and at least *1 GB* of available disk space.
 
-- A publically-accessible Git repo, self-hosted or on a service like GitHub, Gitia or GitLab, or you can run GitLab as its own plugin.
+- A publically-accessible Git repo, self-hosted or on a service like GitHub, Gitea or GitLab, or you can run GitLab as its own plugin.
 
 - A text editor such as *vi*, *ee*, or *nano*, all of which are available in TrueNAS.
 
